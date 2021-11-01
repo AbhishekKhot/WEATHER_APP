@@ -17,3 +17,7 @@ https://openweathermap.org/api
 
 
 https://raw.githubusercontent.com/AbhishekKhot/Weather-Application-MVVM-/master/app/src/main/res/drawable-v24/screenshot.png
+
+https://raw.githubusercontent.com/AbhishekKhot/Weather-Application-MVVM-/master/app/src/main/res/drawable-v24/screenshotthree.png
+
+https://raw.githubusercontent.com/AbhishekKhot/Weather-Application-MVVM-/master/app/src/main/res/drawable-v24/screenshottow.png
