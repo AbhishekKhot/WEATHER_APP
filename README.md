@@ -13,3 +13,7 @@ Searching of weather using coroutines so that should't make to many request at o
 
 API used open weather api
 https://openweathermap.org/api
+
+
+
+https://raw.githubusercontent.com/AbhishekKhot/Weather-Application-MVVM-/master/app/src/main/res/drawable-v24/screenshot.png
