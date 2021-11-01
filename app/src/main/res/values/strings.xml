@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="weather_app">Weather App</string>
+    <string name="description">description</string>
+    <string name="feelslike">feelslike</string>
+    <string name="today">today</string>
+    <string name="humidity">humidity</string>
+    <string name="wind">wind</string>
+    <string name="uv_index">uv_index</string>
+    <string name="enter_city_name_here">enter city name here</string>
+    <string name="_6_30_pm">6:30 PM</string>
+    <string name="_6_00_am">6:00 AM</string>
+    <string name="_36_c">36 C</string>
+</resources>
