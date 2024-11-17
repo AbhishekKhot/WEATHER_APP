@@ -1,13 +1,20 @@
-This is the weather application in android using mvvm architecture pattern
+# Weather App in Android using MVVM Architecture Pattern
 
-Weather App in android using mvvm archicture pattern
+## Features
+- **Splash Screen**
+- Can search the weather of a particular city by city name.
+- **MVVM Architecture**: Includes ViewModel and Repository.
+- **Kotlin Coroutines**: For asynchronous operations.
+- Implements search using coroutines to prevent excessive requests.
+- **API Used**: [OpenWeather API](https://openweathermap.org/api)
 
-features Splash Screen Can search a weather of the particuler city by city name ViewModel Repository Kotlin corotines (light weight threads) for asynchronous works Searching of weather using coroutines so that should't make to many request at one time
+## Screenshots
 
-API used open weather api https://openweathermap.org/api
+### Splash Screen
+![Splash Screen](https://raw.githubusercontent.com/AbhishekKhot/Weather-Application-MVVM-/master/app/src/main/res/drawable-v24/screenshot.png)
 
-https://raw.githubusercontent.com/AbhishekKhot/Weather-Application-MVVM-/master/app/src/main/res/drawable-v24/screenshot.png
+### City Weather Search
+![Weather Search](https://raw.githubusercontent.com/AbhishekKhot/Weather-Application-MVVM-/master/app/src/main/res/drawable-v24/screenshotthree.png)
 
-https://raw.githubusercontent.com/AbhishekKhot/Weather-Application-MVVM-/master/app/src/main/res/drawable-v24/screenshotthree.png
-
-https://raw.githubusercontent.com/AbhishekKhot/Weather-Application-MVVM-/master/app/src/main/res/drawable-v24/screenshottow.png
+### Weather Details
+![Weather Details](https://raw.githubusercontent.com/AbhishekKhot/Weather-Application-MVVM-/master/app/src/main/res/drawable-v24/screenshottow.png)
